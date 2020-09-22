@@ -1,0 +1,16 @@
+.footer {
+    grid-area:ft;
+    background:hsl(210, 17%, 98%);
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: space-between;
+    padding:15px;
+}
+
+
+.footer_design
+{
+ color: #606c76;
+ font-size:10px;
+}
